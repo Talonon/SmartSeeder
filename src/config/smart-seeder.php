@@ -6,4 +6,5 @@ return array(
      */
     'seedTable' => 'seeds',
     'seedDir' => 'smartSeeds',
+    'namespace' => null
 );
